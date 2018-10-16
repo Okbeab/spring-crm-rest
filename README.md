@@ -10,12 +10,16 @@ REST clients should be able to (Perform Full CRUD Support via the REST API)
 Application Architecture:
 ![application architecture](https://user-images.githubusercontent.com/40679311/44940843-d05ff400-ad48-11e8-8e97-9695b83fa569.JPG)
 
+
+
 CRUD Endpoint Examples:
 Create a new customer:  /api/customers 
 Read a list of customers : /api/customers
 Read a single customer : /api/customers/{customerId}
 Update an existing customer : /api/customers
 Delete an existing customer : /api/customers/{customerId}
+
+
 
 Get a Customer:
 ![getting a customer](https://user-images.githubusercontent.com/40679311/44940860-20d75180-ad49-11e8-8927-15a704fe01fe.JPG)
