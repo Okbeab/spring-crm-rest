@@ -1,23 +1,18 @@
-# spring-crm-rest
-Spring REST API for the  Customer Relationship Management (CRM) system
-REST clients should be able to (Perform Full CRUD Support via the REST API) <br/>
-• Get a list of customers <br/>
-• Get a single customer by id <br/>
-• Add a new customer <br/>
-• Update a customer <br/>
-• Delete a customer <br/>
+# Spring REST API for the  Customer Relationship Management (CRM) system
+REST clients can Perform Full CRUD operations via the REST API: <br/>
+
 
 Application Architecture:
 ![application architecture](https://user-images.githubusercontent.com/40679311/44940843-d05ff400-ad48-11e8-8e97-9695b83fa569.JPG)
 
 
 
-CRUD Endpoint Examples:
-Create a new customer:  /api/customers 
-Read a list of customers : /api/customers
-Read a single customer : /api/customers/{customerId}
-Update an existing customer : /api/customers
-Delete an existing customer : /api/customers/{customerId}
+CRUD Endpoint Examples: <br/>
+Create a new customer:  /api/customers <br/> 
+Read a list of customers : /api/customers  <br/>
+Read a single customer : /api/customers/{customerId} <br/>
+Update an existing customer : /api/customers  <br/>
+Delete an existing customer : /api/customers/{customerId} <br/>
 
 
 
